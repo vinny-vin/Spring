@@ -15,7 +15,7 @@
 	<description>Projeto teste com o bumbum guloso</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 
 	<dependencies>
